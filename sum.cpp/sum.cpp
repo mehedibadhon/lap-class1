@@ -9,5 +9,7 @@ int main()
     add = num1+num2;
     cout<<"\nResult = "<<add;
     cout<<endl;
+   cout<< endl;
+
     return 0;
 }
